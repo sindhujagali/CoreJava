@@ -7,9 +7,15 @@ public class GreetingsMain {
 	
 		Greetings G1=new Greetings();
 		G1.m1();
+		System.out.println(G1.m2());
+		G1.m3("S", 34);
+		System.out.println(G1.m4("D"));
 		
 		
-		String s=G1.m2(); //method m2 is returning value. To hold that create a varaible
+	//	OR
+		
+		
+	/*	String s=G1.m2(); //method m2 is returning value. To hold that create a varaible
 		System.out.println(s);//Print the variable
 		//OR
 		System.out.println(G1.m2());
@@ -23,7 +29,7 @@ public class GreetingsMain {
 		//OR
 		System.out.println(G1.m4("Dheeraj"));
 		
-		
+		*/
 		
 	}
 

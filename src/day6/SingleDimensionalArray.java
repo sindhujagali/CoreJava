@@ -27,7 +27,7 @@ public class SingleDimensionalArray
 
 //Find size(length) of an array
 		
-	//	System.out.println("Length of array "+ a.length);
+	//System.out.println("Length of array "+ a.length);
 		
 //Read specify value from a array
 		
@@ -47,7 +47,7 @@ public class SingleDimensionalArray
 		for(int x:a) // x is variable. for each loop no need of condition & inc/desc
 		{
 			System.out.println(x);
-		}
+	}
 		
 		
 	

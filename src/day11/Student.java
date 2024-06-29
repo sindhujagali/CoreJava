@@ -23,7 +23,7 @@ public class Student {
 	// Constructor is also a part of class. it is just like a method		
 	// Constructor name should be same as Class Name		
 	// Constructor will not return any value not even void		
-	// Constructor can also make parameters
+	// Constructor can also take parameters
 	// Only used for assigning data to varaiables.  
 	
 	Student(int id,String name,char gr) // method same should be same as Class name

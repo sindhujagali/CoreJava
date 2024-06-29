@@ -25,6 +25,7 @@ public class BubbleSort {
 				}
 			}
 		}
+
 		System.out.println("Äfter Sorting"+Arrays.toString(a));
 		
 		

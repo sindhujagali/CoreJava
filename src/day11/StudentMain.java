@@ -24,7 +24,7 @@ public class StudentMain {
 // Constructor is also a part of class. it is just like a method		
 // Constructor name should be same as Class Name		
 // Constructor will not return any value not even void		
-// Constructor can also make parameters
+// Constructor can also Take parameters
 // Only used for assigning data to varaiables.  	
 		
 	// No need to call method. Automically when object is created Constructor is invoked	
