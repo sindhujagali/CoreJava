@@ -7,7 +7,7 @@ public class WhileVsDowhileLoop {
 		
 		//While Loop
 		// First check condition and condition is false. So no statement is executed
-		int i=10;
+			int i=10;
 		while(i<=5)
 		{
 			System.out.println(i);

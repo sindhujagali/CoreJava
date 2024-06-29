@@ -10,7 +10,7 @@ public class DoWhileLoop {
 		do
 		{
 			System.out.println(i); // first print i value is 1. Later print i value as 2,3..10
-			i++; //2,3,4..11
+			i++; //2,3,4..10
 		}while(i<=10); //later check condition. now i become 2 and continue until 10 and stop
 		
 //Example2:- print 10...1 desc number
